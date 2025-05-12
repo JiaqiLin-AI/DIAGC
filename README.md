@@ -1,13 +1,16 @@
 # Introduction
 This repo is a Pytorch implementation of **Dual Information Enhanced Multi-view Attrubuted Graph Clustering**, IEEE Transactions on Neural Networks and Learning Systems, 2025.
 
+# Framework
+![terser_2](https://github.com/user-attachments/assets/2d192456-3a56-472d-8e2a-d4aef542057a)
+
 # Requirements
 
 ```
 torch = 1.10.1+cu111
 python = 3.6.13
 ```
-![terser_2](https://github.com/user-attachments/assets/2d192456-3a56-472d-8e2a-d4aef542057a)
+
 
 # Run
 
